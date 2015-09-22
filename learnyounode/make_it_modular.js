@@ -1,4 +1,4 @@
-var mymodule = require('./make_it_modular.js');
+var mymodule = require('./6-make_it_modular_module.js');
 
 mymodule(process.argv[2], process.argv[3], function (error, data) {
 
